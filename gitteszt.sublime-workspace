@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"this"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"requ",
+				"require_once"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Munka/tanulas/git/gitinfo.txt",
+		"/C/xampp/htdocs/appp/application/views/admin/no_access.php",
+		"/C/xampp/htdocs/appp/application/views/admin/admins.php",
+		"/C/xampp/htdocs/appp/application/core/APPP_Controller.php",
+		"/C/xampp/htdocs/appp/application/models/admin_session.php",
+		"/C/xampp/htdocs/appp/application/controllers/Admin_admins.php",
+		"/C/xampp/htdocs/appp/application/language/hungarian/admin_site_lang.php",
+		"/C/xampp/htdocs/appp/application/models/admin_admin_users.php",
+		"/C/xampp/htdocs/appp/index.php",
+		"/C/xampp/htdocs/appp/application/config/appp_config.php",
+		"/C/xampp/htdocs/appp/application/config/hooks.php",
+		"/C/xampp/htdocs/appp/application/config/config.php",
+		"/C/xampp/htdocs/appp/application/helpers/appp_helper.php",
+		"/C/xampp/htdocs/appp/common/admin/js/main.js",
+		"/D/Munka/svn/besocial/renault/newsroom/js/scripts.js",
+		"/D/Munka/svn/besocial/besocial_teszt/js/main.js",
+		"/C/xampp/htdocs/appp/application/config/pagination.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/admin/dashboard_users.php",
+		"/C/xampp/htdocs/appp/application/config/autoload.php",
+		"/C/xampp/htdocs/appp/application/views/admin/top.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/config/routes.php",
+		"/C/xampp/htdocs/appp/application/config/routes.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/controllers/dashboard.php",
+		"/C/xampp/htdocs/appp/application/config/profiler.php",
+		"/C/xampp/htdocs/appp/.htaccess",
+		"/C/shutdown.bat",
+		"/C/xampp/htdocs/appp/application/controllers/Admin_profile.php",
+		"/C/xampp/htdocs/appp/application/views/admin/dashboard.php",
+		"/C/xampp/htdocs/appp/application/views/admin/profile.php",
+		"/C/xampp/htdocs/appp/common/admin/css/main.css",
+		"/C/xampp/htdocs/appp/application/controllers/Admin_dashboard.php",
+		"/C/xampp/htdocs/appp/application/controllers/Admin_login.php",
+		"/C/xampp/htdocs/appp/app.sublime-project",
+		"/C/xampp/htdocs/appp/application/language/hungarian/admin_error_lang.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/admin/dashboard_positions.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/admin/nav.php",
+		"/C/xampp/htdocs/appp/application/views/admin/login.php",
+		"/C/xampp/htdocs/appp/application/views/admin/footer.php",
+		"/C/xampp/htdocs/appp/application/views/admin/header.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/admin/login.php",
+		"/D/Munka/svn/besocial/besocial_teszt/css/fw.css",
+		"/C/xampp/htdocs/appp/application/views/admin/mainpage.php",
+		"/D/Munka/svn/besocial/besocial_teszt/templates/fw/base.html",
+		"/D/Munka/svn/besocial/besocial_teszt/templates/fw/client_settings.html",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/controllers/admin.php",
+		"/C/xampp/htdocs/appp/application/config/database.php",
+		"/D/Munka/svn/sajat_honlapok/viacom/ebadta.hu/templates_2016/base.html",
+		"/C/xampp/htdocs/appp/common/admin/css/style.css",
+		"/D/Munka/svn/sajat_honlapok/viacom/ebadta.hu/.htaccess",
+		"/C/xampp/htdocs/appp/application/language/english/admin_site_lang.php",
+		"/C/xampp/htdocs/appp/application/views/template_admin.php",
+		"/C/xampp/htdocs/appp/application/language/english/admin_error_lang.php",
+		"/C/xampp/htdocs/appp/application/language/english/index.html",
+		"/C/xampp/htdocs/appp/app.sublime-workspace",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/admin/system_messages.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/template_admin.php",
+		"/C/xampp/htdocs/appp/application/controllers/Campaign.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/controllers/cms.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/template_frontend.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/views/under_construction.php",
+		"/C/xampp/htdocs/appp/application/views/template_frontend.php",
+		"/D/Munka/svn/besocial/karrier_hungaria_honlap/models/admin_users.php",
+		"/C/xampp/htdocs/appp/application/controllers/Welcome.php",
+		"/D/Munka/_outlook_kep_hiba.html",
+		"/D/Munka/weblapok_anyagai/joanelli_tamas_besocial/marketcentral/mcf_majus_cuccok/template/index.html",
+		"/C/xampp/htdocs/appp/application/config/appp.php",
+		"/C/xampp/htdocs/appp/application/config/production/database.php",
+		"/C/xampp/htdocs/appp/application/config/development/database.php",
+		"/C/xampp/htdocs/appp/environments.php",
+		"/C/xampp/htdocs/appp/application/.htaccess"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current_admin_logged_in",
+			"admin_site_lang"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin_logged_in"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gitteszt.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
